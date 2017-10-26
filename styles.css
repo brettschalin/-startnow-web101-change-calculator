@@ -1,0 +1,20 @@
+
+
+body{
+    background: linear-gradient(#FFFF88, white);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font: bold Helvetica;
+}
+
+p {
+    font: 12pt Helvetica;
+}
+
+
+#calculate-change {
+    color: black;
+    background-color: rgb(12, 12, 190);
+}
